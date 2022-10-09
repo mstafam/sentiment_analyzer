@@ -1,5 +1,5 @@
 # Sentiment Analyzer
-The purpose of this program is to recieve text from the user, and return the sentiment of the text. The sentiment of a text ranges from very positive, to very negative. The user can input text into the terminal, for shorter texts, or can upload a .txt file, for longer form content.
+The purpose of this program is to recieve text from the user, and return the sentiment of the text. The sentiment of a text ranges from very positive to very negative. The user can input text into the terminal, for shorter texts, or can upload a .txt file, for longer form content.
 
 To run this program, you must have Vader, a lexicon and rule-based sentiment analysis tool, installed on your machine, if you dont, you can install it using the command:
 ```
